@@ -22,7 +22,7 @@ const cities = [];
 fetch(endpoint).then(blob => blob.json())
 .then(data => cities.push(...data)) // spread into the push method using es6
 
-function findMatches(wordToWatch, cities) {
+function findMatches(wordToMatch, cities) {
   return cities.filter(place => {
     // here we need to figure out if the city or state matches what was searched
     const regex = new RegExp(wordToMatch, 'gi'); // search global and insensative case
