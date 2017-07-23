@@ -1,6 +1,6 @@
 ![](https://javascript30.com/images/JS3-social-share.png)
 
-# JavaScript30
+# JavaScript30 by Wes Bos
 
 #### No frameworks, no libraries, no compilers, no boilerplate.
 
@@ -8,7 +8,7 @@ Build 30 projects in 30 days using vanilla Javascript for the [JavaScript 30 Day
 
 ## Table of Contents
 
-- [x] **01** / [Javascript Drum Kit](https://celina.github.io/javascript30/01 - JavaScript Drum Kit)
+- [x] **01** / [Javascript Drum Kit](https://celina.github.io/javascript30/01%20-%20JavaScript%20Drum%20Kit)
 
 - [x] **02** / [Javascript and CSS Clock](https://celina.github.io/javascript30/02 - JS and CSS Clock)
 
