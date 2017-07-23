@@ -4,7 +4,7 @@
 
 #### No frameworks, no libraries, no compilers, no boilerplate.
 
-Build 30 projects in 30 days using vanilla Javascript for the [JavaScript 30 Day Challenge](https://JavaScript30.com) by [Wes Bos](http://wesbos.com).
+Build 30 projects in 30 days using vanilla JavaScript for the [JavaScript 30 Day Challenge](https://JavaScript30.com) by [Wes Bos](http://wesbos.com).
 
 ## Table of Contents
 
