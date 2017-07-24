@@ -16,7 +16,7 @@ Build 30 projects in 30 days using vanilla JavaScript for the [JavaScript 30 Day
 
 - [x] **04** / [Array Cardio Day 1](https://celina.github.io/javascript30/04%20-%20Array%20Cardio%20Day%201) || [Repo](https://celina.github.io/javascript30/tree/master/04%20-%20Array%20Cardio%20Day%201)
 
-- [x] **05** / [Flex Panel Gallery](https://celina.github.io/javascript30/05%20-%20Flex%20Panel%20Gallery) ||[Repo](https://celina.github.io/javascript30/tree/master/05%20-%20Flex%20Panel%20Gallery)
+- [x] **05** / [Flex Panel Gallery](https://celina.github.io/javascript30/05%20-%20Flex%20Panel%20Gallery) || [Repo](https://celina.github.io/javascript30/tree/master/05%20-%20Flex%20Panel%20Gallery)
 
 - [x] **06** / [Type Ahead](https://celina.github.io/javascript30/06%20-%20Type%20Ahead) || [Repo](https://celina.github.io/javascript30/tree/master/06%20-%20Type%20Ahead)
 
