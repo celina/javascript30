@@ -8,23 +8,23 @@ Build 30 projects in 30 days using vanilla JavaScript for the [JavaScript 30 Day
 
 ## Table of Contents
 
-- [x] **01** / [Javascript Drum Kit](https://celina.github.io/javascript30/01%20-%20JavaScript%20Drum%20Kit)
+- [x] **01** / [Javascript Drum Kit](https://celina.github.io/javascript30/01%20-%20JavaScript%20Drum%20Kit) || [Repo](https://www.github.com/celina/javascript30/tree/master/01%20-%20JavaScript%20Drum%20Kit)
 
-- [x] **02** / [Javascript and CSS Clock](https://celina.github.io/javascript30/02%20-%20JS%20and%20CSS%20Clock)
+- [x] **02** / [Javascript and CSS Clock](https://celina.github.io/javascript30/02%20-%20JS%20and%20CSS%20Clock) || [Repo](https://celina.github.io/javascript30/tree/master/02%20-%20JS%20and%20CSS%20Clock)
 
-- [x] **03** / [CSS Variables](https://celina.github.io/javascript30/03%20-%20CSS%20Variables)
+- [x] **03** / [CSS Variables](https://celina.github.io/javascript30/03%20-%20CSS%20Variables) || [Repo](https://celina.github.io/javascript30/tree/master/03%20-%20CSS%20Variables)
 
-- [x] **04** / [Array Cardio Day 1](https://celina.github.io/javascript30/04%20-%20Array%20Cardio%20Day%201)
+- [x] **04** / [Array Cardio Day 1](https://celina.github.io/javascript30/04%20-%20Array%20Cardio%20Day%201) || [Repo](https://celina.github.io/javascript30/tree/master/04%20-%20Array%20Cardio%20Day%201)
 
-- [x] **05** / [Flex Panel Gallery](https://celina.github.io/javascript30/05%20-%20Flex%20Panel%20Gallery)
+- [x] **05** / [Flex Panel Gallery](https://celina.github.io/javascript30/05%20-%20Flex%20Panel%20Gallery) ||[Repo](https://celina.github.io/javascript30/tree/master/05%20-%20Flex%20Panel%20Gallery)
 
-- [x] **06** / [Type Ahead](https://celina.github.io/javascript30/06%20-%20Type%20Ahead)
+- [x] **06** / [Type Ahead](https://celina.github.io/javascript30/06%20-%20Type%20Ahead) || [Repo](https://celina.github.io/javascript30/tree/master/06%20-%20Type%20Ahead)
 
-- [x] **07** / [Array Cardio Day 2](https://celina.github.io/javascript30/07%20-%20Array%20Cardio%20Day%202)
+- [x] **07** / [Array Cardio Day 2](https://celina.github.io/javascript30/07%20-%20Array%20Cardio%20Day%202) || [Repo](https://celina.github.io/javascript30/tree/master/07%20-%20Array%20Cardio%20Day%202)
 
-- [x] **08** / [Fun with HTML5 Canvas](https://celina.github.io/javascript30/08%20-%20Fun%20with%20HTML5%20Canvas)
+- [x] **08** / [Fun with HTML5 Canvas](https://celina.github.io/javascript30/08%20-%20Fun%20with%20HTML5%20Canvas) || [Repo](https://celina.github.io/javascript30/tree/master/08%20-%20Fun%20with%20HTML5%20Canvas)
 
-- [x] **09** / [Dev Tools Domination](https://celina.github.io/javascript30/09%20-%20Dev%20Tools%20Domination)
+- [x] **09** / [Dev Tools Domination](https://celina.github.io/javascript30/09%20-%20Dev%20Tools%20Domination) || [Repo](https://celina.github.io/javascript30/tree/master/09%20-%20Dev%20Tools%20Domination)
 
 - [ ] **10** / [Hold Shift and Check Checkboxes]
 
