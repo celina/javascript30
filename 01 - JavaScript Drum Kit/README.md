@@ -19,5 +19,5 @@ Build 30 projects in 30 days using vanilla JavaScript for the [JavaScript 30 Day
 - ES6
 
 ### Lessons Learned
-- [Keycode.info](http://keycode.info/)] - used to identify any key's JavaScript event keycode
+- [Keycode.info](http://keycode.info/) - used to identify any key's JavaScript event keycode
 - data-key - used to define an action that takes place when a key is pressed
