@@ -8,10 +8,18 @@ Build 30 projects in 30 days using vanilla JavaScript for the [JavaScript 30 Day
 
 ## Table of Contents
 
-- **01** / [Javascript Drum Kit](https://celina.github.io/javascript30/01%20-%20JavaScript%20Drum%20Kit)
+- **01** / [JavaScript Drum Kit](https://celina.github.io/javascript30/01%20-%20JavaScript%20Drum%20Kit)
+
+## About this project
+
+Create a JavaScript Drum Kit that responds when keys are pressed on the keyboard.
+
+## Demo
+
+Link: [JavaScript Drum Kit](https://celina.github.io/javascript30/01%20-%20JavaScript%20Drum%20Kit)
 
 ## Screenshot
-![](https://celina.github.io/javascript30/01%20-%20JavaScript%20Drum%20Kit/img/image-1.png)
+![Completed JavaScript Drum Kit](https://celina.github.io/javascript30/01%20-%20JavaScript%20Drum%20Kit/img/image-1.png)
 
 
 ### Technologies Used
