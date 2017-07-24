@@ -11,7 +11,7 @@ Build 30 projects in 30 days using vanilla JavaScript for the [JavaScript 30 Day
 - **01** / [Javascript Drum Kit](https://celina.github.io/javascript30/01%20-%20JavaScript%20Drum%20Kit)
 
 ## Screenshot
-![](https://celina.github.com/javascript30/01%20-%20JavaScript%20Drum%20Kit/screenshot/image-1.png)
+![](https://celina.github.io/javascript30/01%20-%20JavaScript%20Drum%20Kit/img/image-1.png)
 
 
 ### Technologies Used
