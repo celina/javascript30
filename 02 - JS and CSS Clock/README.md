@@ -28,6 +28,6 @@ Link: [Javascript and CSS Clock](https://celina.github.io/javascript30/02%20-%20
 - ES6
 - CSS
 
-### Lessons Learned
+## Lessons Learned
 
 - variable.style.transform = `rotate(${num}deg)`; - rotates an element by the specified degrees
