@@ -19,14 +19,16 @@ Create a JavaScript Drum Kit that responds when keys are pressed on the keyboard
 Link: [JavaScript Drum Kit](https://celina.github.io/javascript30/01%20-%20JavaScript%20Drum%20Kit)
 
 ## Screenshot
+
 ![Completed JavaScript Drum Kit](https://celina.github.io/javascript30/01%20-%20JavaScript%20Drum%20Kit/img/image-1.png)
 
+## Technologies Used
 
-### Technologies Used
 - JavaScript
 - ES6
 - CSS
 
-### Lessons Learned
+## Lessons Learned
+
 - [Keycode.info](http://keycode.info/) - used to identify any key's JavaScript event keycode
 - data-key - used to define an action that takes place when a key is pressed
