@@ -19,9 +19,11 @@ Create a clock using JavaScript and CSS.
 Link: [Javascript and CSS Clock](https://celina.github.io/javascript30/02%20-%20JS%20and%20CSS%20Clock)
 
 ## Screenshot
-![Completed JavaScript Drum Kit](https://celina.github.io/javascript30/02%20-%20JS%20and%20CSS%20Clock/img/image-1.png)
+
+![Completed Javascript and CSS Clock](https://celina.github.io/javascript30/02%20-%20JS%20and%20CSS%20Clock/img/image-1.png)
 
 ## Technologies Used
+
 - JavaScript
 - ES6
 - CSS
