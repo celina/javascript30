@@ -8,4 +8,24 @@ Build 30 projects in 30 days using vanilla JavaScript for the [JavaScript 30 Day
 
 ## Table of Contents
 
-- [x] **02** / [Javascript and CSS Clock](https://celina.github.io/javascript30/02%20-%20JS%20and%20CSS%20Clock)
+- **02** / [Javascript and CSS Clock](https://celina.github.io/javascript30/02%20-%20JS%20and%20CSS%20Clock)
+
+## About this project
+
+Create a clock using JavaScript and CSS.
+
+## Demo
+
+Link: [Javascript and CSS Clock](https://celina.github.io/javascript30/02%20-%20JS%20and%20CSS%20Clock)
+
+## Screenshot
+![Completed JavaScript Drum Kit](https://celina.github.io/javascript30/02%20-%20JS%20and%20CSS%20Clock/img/image-1.png)
+
+## Technologies Used
+- JavaScript
+- ES6
+- CSS
+
+### Lessons Learned
+
+- variable.style.transform = `rotate(${num}deg)`; - rotates an element by the specified degrees
