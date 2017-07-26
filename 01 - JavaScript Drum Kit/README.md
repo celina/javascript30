@@ -25,6 +25,7 @@ Link: [JavaScript Drum Kit](https://celina.github.io/javascript30/01%20-%20JavaS
 ### Technologies Used
 - JavaScript
 - ES6
+- CSS
 
 ### Lessons Learned
 - [Keycode.info](http://keycode.info/) - used to identify any key's JavaScript event keycode
